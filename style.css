@@ -1,0 +1,14 @@
+#div_app{
+	width: 350px;
+	margin: auto;
+	margin-top: 10%;
+	border: 1px solid black;
+	text-align: center;
+}
+body{ 
+  height: 100%;
+background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
